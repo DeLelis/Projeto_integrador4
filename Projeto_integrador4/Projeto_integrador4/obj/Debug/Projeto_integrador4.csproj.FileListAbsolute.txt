@@ -1,9 +1,0 @@
-C:\Users\Jéssica\Desktop\ProjetoÌnte\Projeto_integrador4\Projeto_integrador4\bin\Debug\Projeto_integrador4.exe.config
-C:\Users\Jéssica\Desktop\ProjetoÌnte\Projeto_integrador4\Projeto_integrador4\obj\Debug\Projeto_integrador4.csprojResolveAssemblyReference.cache
-C:\Users\Jéssica\Desktop\ProjetoÌnte\Projeto_integrador4\Projeto_integrador4\obj\Debug\Projeto_integrador4.Form1.resources
-C:\Users\Jéssica\Desktop\ProjetoÌnte\Projeto_integrador4\Projeto_integrador4\obj\Debug\Projeto_integrador4.Properties.Resources.resources
-C:\Users\Jéssica\Desktop\ProjetoÌnte\Projeto_integrador4\Projeto_integrador4\obj\Debug\Projeto_integrador4.csproj.GenerateResource.Cache
-C:\Users\Jéssica\Desktop\ProjetoÌnte\Projeto_integrador4\Projeto_integrador4\bin\Debug\Projeto_integrador4.exe
-C:\Users\Jéssica\Desktop\ProjetoÌnte\Projeto_integrador4\Projeto_integrador4\bin\Debug\Projeto_integrador4.pdb
-C:\Users\Jéssica\Desktop\ProjetoÌnte\Projeto_integrador4\Projeto_integrador4\obj\Debug\Projeto_integrador4.exe
-C:\Users\Jéssica\Desktop\ProjetoÌnte\Projeto_integrador4\Projeto_integrador4\obj\Debug\Projeto_integrador4.pdb

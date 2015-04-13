@@ -64,6 +64,8 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>banco_loginDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="Conexao.cs" />
+    <Compile Include="dados.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
