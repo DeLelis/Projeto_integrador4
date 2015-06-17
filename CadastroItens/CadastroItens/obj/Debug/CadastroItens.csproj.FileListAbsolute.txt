@@ -1,0 +1,9 @@
+c:\users\emyll_000\documents\visual studio 2012\Projects\CadastroItens\CadastroItens\bin\Debug\CadastroItens.exe.config
+C:\Users\emyll_000\documents\visual studio 2012\Projects\CadastroItens\CadastroItens\bin\Debug\CadastroItens.exe
+C:\Users\emyll_000\documents\visual studio 2012\Projects\CadastroItens\CadastroItens\bin\Debug\CadastroItens.pdb
+C:\Users\emyll_000\documents\visual studio 2012\Projects\CadastroItens\CadastroItens\obj\Debug\CadastroItens.csprojResolveAssemblyReference.cache
+C:\Users\emyll_000\documents\visual studio 2012\Projects\CadastroItens\CadastroItens\obj\Debug\CadastroItens.Form1.resources
+C:\Users\emyll_000\documents\visual studio 2012\Projects\CadastroItens\CadastroItens\obj\Debug\CadastroItens.Properties.Resources.resources
+C:\Users\emyll_000\documents\visual studio 2012\Projects\CadastroItens\CadastroItens\obj\Debug\CadastroItens.csproj.GenerateResource.Cache
+C:\Users\emyll_000\documents\visual studio 2012\Projects\CadastroItens\CadastroItens\obj\Debug\CadastroItens.exe
+C:\Users\emyll_000\documents\visual studio 2012\Projects\CadastroItens\CadastroItens\obj\Debug\CadastroItens.pdb
