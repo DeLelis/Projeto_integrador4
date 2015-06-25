@@ -1,0 +1,17 @@
+c:\users\sergio\documents\visual studio 2012\Projects\AppOS\AppOS\bin\Debug\AppOS.exe.config
+c:\users\sergio\documents\visual studio 2012\Projects\AppOS\AppOS\bin\Debug\AppOS.exe
+c:\users\sergio\documents\visual studio 2012\Projects\AppOS\AppOS\bin\Debug\AppOS.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\AppOS\AppOS\obj\Debug\AppOS.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2012\Projects\AppOS\AppOS\obj\Debug\AppOS.Login.resources
+c:\users\sergio\documents\visual studio 2012\Projects\AppOS\AppOS\obj\Debug\AppOS.Properties.Resources.resources
+c:\users\sergio\documents\visual studio 2012\Projects\AppOS\AppOS\obj\Debug\AppOS.View.Login1.resources
+c:\users\sergio\documents\visual studio 2012\Projects\AppOS\AppOS\obj\Debug\AppOS.csproj.GenerateResource.Cache
+c:\users\sergio\documents\visual studio 2012\Projects\AppOS\AppOS\obj\Debug\AppOS.exe
+c:\users\sergio\documents\visual studio 2012\Projects\AppOS\AppOS\obj\Debug\AppOS.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\AppOS\AppOS\obj\Debug\AppOS.View.CadastroLogin.resources
+c:\users\sergio\documents\visual studio 2012\Projects\AppOS\AppOS\obj\Debug\AppOS.View.Home.Home.resources
+C:\Users\SERGIO\documents\visual studio 2012\Projects\AppOS\AppOS\obj\Debug\AppOS.View.Cliente.FrmCliente.resources
+C:\Users\SERGIO\documents\visual studio 2012\Projects\AppOS\AppOS\obj\Debug\AppOS.View.Funcionario.FrmFuncionario.resources
+C:\Users\SERGIO\documents\visual studio 2012\Projects\AppOS\AppOS\obj\Debug\AppOS.View.OS.FrmOS.resources
+C:\Users\SERGIO\documents\visual studio 2012\Projects\AppOS\AppOS\obj\Debug\AppOS.View.Peças.FrmPecas.resources
+C:\Users\SERGIO\documents\visual studio 2012\Projects\AppOS\AppOS\obj\Debug\AppOS.View.OS.FrmOSListar.resources
